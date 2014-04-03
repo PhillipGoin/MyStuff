@@ -1,0 +1,2 @@
+export CATALINA_BASE=/var/lib/tomcat7
+export CATALINA_HOME=/usr/share/tomcat7
